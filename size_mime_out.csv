@@ -1,0 +1,8 @@
+size,name,mime_type,path
+366619,giphy.gif,image/gif,disk:/folder/giphy.gif
+366619,giphy.gif,image/gif,disk:/folder 11/hdd/giphy.gif
+366619,giphy_2.gif,image/gif,disk:/folder 11/giphy_2.gif
+1762478,Горы.jpg,image/jpeg,disk:/Горы.jpg
+1762478,Горы.jpg,image/jpeg,disk:/folder 11/sdd/hrhr/Горы.jpg
+31000079,Хлебные крошки.mp4,video/mp4,disk:/Хлебные крошки.mp4
+31000079,крошки.mp4,video/mp4,disk:/folder/крошки.mp4
